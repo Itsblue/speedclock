@@ -1,2 +1,7 @@
 # speedclock
-Eine StoppUhr für die Speedkletterwand in Stuttgart
+## moved to blue.code:
+https://git.itsblue.de/speedclimbing_stopwatch/speedclimbing_stopwatch (current version)
+https://doc.itsblue.de/speedclimbing_stopwatch/ (documentation)
+
+( https://git.itsblue.de/dorian/speedclock (old, unsupported version))
+
